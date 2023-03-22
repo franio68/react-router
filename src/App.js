@@ -15,7 +15,7 @@ import Terminos from "./pages/Terminos";
 
 const App = () => {
   const usuario = {
-    nombre: "Pepe",
+    nombre: "Antonio",
   };
   return (
     <div className="App">
